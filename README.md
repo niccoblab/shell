@@ -1,0 +1,1 @@
+This shell mimics a linux shell environment which was created as an assignment for an Operating Systems class. The code featured here is not as clean as it could be, and the comments are abundant albeit extremely unprofessional. Someday I plan to revisit this code to clean it up, remove the unnecessary comments, and add more features to the project. 
